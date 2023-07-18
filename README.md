@@ -1,2 +1,2 @@
 # QRCode
-My first challenge from Front Ent Mentor
+My first challenge from FrontEnd Mentor
